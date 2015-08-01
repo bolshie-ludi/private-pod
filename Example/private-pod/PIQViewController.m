@@ -7,6 +7,7 @@
 //
 
 #import "PIQViewController.h"
+#import <private_pod/UIImage+FQResize.h>
 
 @interface PIQViewController ()
 
