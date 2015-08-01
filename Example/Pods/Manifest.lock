@@ -1,0 +1,14 @@
+PODS:
+  - private-pod (0.1.0)
+
+DEPENDENCIES:
+  - private-pod (from `../`)
+
+EXTERNAL SOURCES:
+  private-pod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  private-pod: 7c65706a18e1b2d06386fbef5f352eb5a009d782
+
+COCOAPODS: 0.37.2
