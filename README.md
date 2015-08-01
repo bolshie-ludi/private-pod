@@ -26,7 +26,7 @@ pod "private-pod"
 
 ## Author
 
-Pavel Rudkouski, p.rudkovsky@cherrit.com
+Pavel Rudkouski, p.rudkovsky@mobitee.com
 
 ## License
 
