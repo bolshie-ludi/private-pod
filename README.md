@@ -14,9 +14,13 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 ## Installation
 
 private-pod is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+it, simply add the following lines to your Podfile:
 
 ```ruby
+source 'https://github.com/bolshie-ludi/Specs.git'
+
+...
+
 pod "private-pod"
 ```
 
