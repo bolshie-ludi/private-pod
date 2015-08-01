@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'private-pod_Example', :exclusive => true do
+  pod "private-pod", :path => "../"
+end
+
+target 'private-pod_Tests', :exclusive => true do
+  pod "private-pod", :path => "../"
+
+  
+end
